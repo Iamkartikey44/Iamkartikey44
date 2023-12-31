@@ -38,6 +38,6 @@ I'm passionate about Data Analytics & Machine Learning as I believe that it is a
 
 ⚡️ ...
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamkartikey)](https://github.com/iamkartikey/github-profile-trophy)
 ![Logo](https://github-readme-stats.vercel.app/api?username=iamkartikey44&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
