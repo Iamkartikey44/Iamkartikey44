@@ -23,7 +23,7 @@ I'm passionate about Data Analytics & Machine Learning as I believe that it is a
 8. Tableau
 
 ## Summary of My Journey
-👩‍💻 I'm currently working on Cognizant
+👩‍💻 I'm currently working in Cognizant
 
 🧠 I'm currently learning Deep learning
 
